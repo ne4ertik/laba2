@@ -7,7 +7,7 @@ if ((A < C) | (B < C) | (A < B)){
    A=2*A; 
    B=2*B;
    C=2*C;
-    Console.WriteLine($"Удвоенные числа равны {A}{B}{C}") ;
+    Console.WriteLine($"Удвоенные числа равны {A} {B} {C}") ;
 }
  else
 {
